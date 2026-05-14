@@ -32,8 +32,7 @@ Timed exercise (~**60 minutes** suggested) for Web3 engineers: implement ERC-20 
    (Requires `code` command in PATH.)  
    Manual fallback: **Extensions → … → Install from VSIX…** → pick the VSIX in repo root → **Reload Window**.
 
-3. Use the **Proctor** icon in the **activity bar** for a **Session** side panel (stable list view with live telemetry + quick actions). The status bar shows **Proctor** and a clock. Command palette: **Proctor: Open task packet (TASK.md)**.  
-   **Optional script flows:** (a) **Proctor: Download script from URL** — you type any URL, pick a folder, save; one dialog may offer **Run with Node** in the background. (b) **Download exam script & begin session** from the **Session** side panel, the full dashboard, or the command palette — downloads the fixed exam script URL, saves under **`exam-output/`**, runs **`node`** in the background, and **starts the exam clock from 0**.
+3. Use the **Proctor** icon in the **activity bar** for a **Session** side panel (stable list view with live telemetry + quick actions). The status bar shows **Proctor** and a clock.
 4. Implement **`src/evm/transferLog.js`**, then from the repo root:
 
    ```bash
