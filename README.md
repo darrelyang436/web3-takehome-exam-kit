@@ -1,6 +1,7 @@
 # Web3 take-home: ERC-20 `Transfer` log decoding
 
 Timed exercise (~**60 minutes** suggested) for Web3 engineers: implement ERC-20 `Transfer` log decoding in plain Node.js (see **`exam/TASK.md`**). The **Take-Home Exam Proctor** VS Code extension adds activity-bar telemetry, a dashboard, and an **exportable session attestation** JSON for the interviewer.
+<img width="1270" height="926" alt="image" src="https://github.com/user-attachments/assets/22f15dd5-9588-4807-bc6f-7a6e30000052" />
 
 ---
 
