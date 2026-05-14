@@ -1,0 +1,25 @@
+{
+  "name": "web3-evm-transfer-log-takehome",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Take-home (~1h): ERC-20 Transfer log decoding (eth_getLogs shape) without ethers/viem/web3.js.",
+  "main": "src/evmTransfer.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test ./test/transfer-log.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "ethereum",
+    "evm",
+    "erc-20",
+    "web3",
+    "take-home"
+  ],
+  "dependencies": {
+    "js-sha3": "^0.9.3"
+  },
+  "license": "UNLICENSED"
+}
